@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "joinedDate": "2021-01-15",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "position": "Product Manager",
+      "department": "Product",
+      "joinedDate": "2020-08-12",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "position": "UX Designer",
+      "department": "Design",
+      "joinedDate": "2019-03-25",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "position": "UX Designer",
+      "department": "Design",
+      "joinedDate": "2019-03-25",
+      "status": "Inactive"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "position": "UX Designer",
+      "department": "Design",
+      "joinedDate": "2019-03-25",
+      "status": "Inactive"
+    }
+  ]
+}
